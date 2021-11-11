@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Weather App</string>
+
+    <string name="menu_title_settings">Settings</string>
+
+    <string name="temperature_unit">%1$.0f°</string>
+    <string name="location_format">%1$s, %2$s</string>
+
+    <string name="open_weather_image_url">http://openweathermap.org/img/wn/%1$s@2x.png</string>
+
+    <string name="EEEE_MMMM_dd_pattern">"EEEE, MMMM dd"</string>
+    <string name="hh_pattern">"hh:\'00' a"</string>
+
+    <string name="location_preference_key">select_location</string>
+    <string name="title_preference">Location </string>
+    <string name="dialog_title_preference">Select Location</string>
+    <string name="settings_select_location_default" translatable="false">@string/settings_location_current_value</string>
+
+    <string name="settings_location_current_label">Current location</string>
+    <string name="settings_location_current_value">current</string>
+
+    <string name="settings_location_london_label">London</string>
+    <string name="settings_location_london_value">london</string>
+
+    <string name="settings_location_paris_label">Paris</string>
+    <string name="settings_location_paris_value">paris</string>
+
+    <string name="settings_location_istanbul_label">Istanbul</string>
+    <string name="settings_location_istanbul_value">istanbul</string>
+
+    <string name="settings_location_tokyo_label">Tokyo</string>
+    <string name="settings_location_tokyo_value">tokyo</string>
+
+    <string name="settings_location_mariupol_label">Mariupol</string>
+    <string name="settings_location_mariupol_value">mariupol</string>
+
+
+</resources>
